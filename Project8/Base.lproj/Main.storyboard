@@ -201,7 +201,7 @@
                     <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                     <connections>
                         <outlet property="answersLabel" destination="ayW-BB-qrN" id="EYJ-6t-VzW"/>
-                        <outlet property="cluesLabel" destination="poJ-dq-gCW" id="HHV-QL-XWc"/>
+                        <outlet property="cluesLabel" destination="poJ-dq-gCW" id="xwf-UX-jZD"/>
                         <outlet property="currentAnswer" destination="n2E-D1-PvY" id="ASa-rV-LFt"/>
                         <outlet property="scoreLabel" destination="JPY-KE-iv6" id="wUT-eG-Btx"/>
                     </connections>
